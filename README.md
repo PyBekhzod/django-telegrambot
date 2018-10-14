@@ -1,2 +1,2 @@
-# django-telegrambot
-Django + telegrambot + keyboard
+# django-telegrambot webhook
+Django-telegrambot webhook by @begyy
